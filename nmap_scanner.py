@@ -2,7 +2,7 @@ import nmap
 
 scanner = nmap.PortScanner()
 
-print("Welcome, This is a Simple NMap Automation Tool")
+print("Welcome, This is a Simple NMap Tool")
 print("NMap Version: " , scanner.nmap_version())
 print("<--------------------------------------------->")
 
